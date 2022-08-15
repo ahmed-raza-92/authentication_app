@@ -11,6 +11,7 @@ import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 class AppleAuthentication extends StatefulWidget {
   const AppleAuthentication({Key? key}) : super(key: key);
 
+
   @override
   State<AppleAuthentication> createState() => _AppleAuthenticationState();
 }
